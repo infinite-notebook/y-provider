@@ -1,0 +1,17 @@
+{
+  "name": "y-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lib0": "^0.2.73",
+    "simple-peer": "^9.11.1",
+    "y-protocols": "^1.0.5",
+    "yjs": "^13.5.51"
+  }
+}
