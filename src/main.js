@@ -20,7 +20,7 @@ import * as awarenessProtocol from 'y-protocols/awareness'
 
 import * as cryptoutils from './crypto.js'
 
-export * from './crypto.js'
+export * as cryptoutils from './crypto.js'
 
 const log = logging.createModuleLogger('y-webrtc')
 
